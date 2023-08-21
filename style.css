@@ -1,0 +1,16 @@
+.product{
+    width: 230px;
+    height:330px;
+    /* border: 1px solid red; */
+    box-shadow: 4px 4px 8px gray;
+}
+.product-img{
+    width: fit-content;
+    height: 150px;
+    margin-left:20%;
+    
+}
+.btn-add-cut{
+   
+    margin-top: 8px;
+}
